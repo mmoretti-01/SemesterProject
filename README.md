@@ -1,6 +1,10 @@
+# Semester Project
+
 Welcome to my Semester Project repository.
 
 This repository contains the data and analysis code developed during my **Semester Project at ETH Zurich**. The project is intended to function as a standalone repository and includes the resources required to generate the corresponding plots and analyses.
+
+> **Note:** The comments and documentation within the Python code are written in German.
 
 ## Repository Structure
 
